@@ -1,0 +1,21 @@
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.site-title {
+    color: #fff;
+    text-align: center;
+    text-decoration: c;
+}
+
+.site-title a:hover {
+    text-decoration: underline;
+}
